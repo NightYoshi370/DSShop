@@ -1,7 +1,7 @@
 [
 	{
 		"location": "GitHub",
-		"author": "DS-Homebrew",
+		"author": "RocketRobz",
 		"name": "TWiLightMenu",
 		"categories": [1, 2]
 	},
@@ -20,7 +20,7 @@
 	},
 	{
 		"location": "other",
-		"author": "RocketRobz",
+		"author": "Loopy",
 		"name": "NesDS",
 		"description": "NES emulator for the DS",
 		"categories": [1, 4],
@@ -69,7 +69,7 @@
 		"update_time": "2007-01-25",
 		"create_time": "2011-06-20",
 		"version": "v1.2.1",
-		"url": "https://code.google.com/archive/p/dsdoom/",
+		"url": "https://github.com/Doom-Utils/dsdoom",
 		"files": [
 			{
 				"url": "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/dsdoom/dsdoom-1.2.1.7z",
@@ -93,10 +93,10 @@
 		"update_time": "?",
 		"create_time": "?",
 		"version": "v1.1",
-		"url": "https://www.lolsnes.com",
+		"url": "https://lolsnes.kuribo64.net",
 		"files": [
 			{
-				"url": "https://www.lolsnes.com/download/lolSNES.nds",
+				"url": "http://lolsnes.kuribo64.net/gitbuilds/git_b1ddc811030fe2a3ef3e97187f0eeec4a4b3e353.zip",
 				"name": "lolSNES.nds",
 				"size": 329737
 			}
